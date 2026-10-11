@@ -17,3 +17,4 @@ type of undefined always comes as undefined itself
 
 
 console.log(typeof null);
+
